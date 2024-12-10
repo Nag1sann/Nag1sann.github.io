@@ -2237,12 +2237,6 @@ progress
   }
 }
 
-.dropup,.dropend,.dropdown,.dropstart,.dropup-center,.dropdown-center
-{
-  position: relative
-}
-
-
 @media (prefers-reduced-motion:reduce)
 {
   .accordion-button
